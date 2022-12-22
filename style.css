@@ -1,0 +1,35 @@
+html {
+    height: 600px;
+    
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Rubik Vinyl', cursive;
+}
+
+audio {
+    position: relative;
+    height: 70px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Chivo Mono', monospace;
+
+}
+
+span {
+    background-color: greenyellow;
+    border-radius: 5px;
+    padding: 6px 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body img {
+    width: 437px;
+}
